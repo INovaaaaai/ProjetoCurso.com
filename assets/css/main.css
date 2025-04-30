@@ -2188,6 +2188,7 @@ input, select, textarea {
 			display: inline-block;
 			padding: 2.5em 5em;
 			border-radius: 5px;
+			width: 80%;
 		}
 
 			#banner header h2 {
