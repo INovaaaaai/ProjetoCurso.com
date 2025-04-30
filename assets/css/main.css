@@ -82,6 +82,7 @@ input, select, textarea {
 		box-sizing: inherit;
 	}
 
+	
 	body {
 		background: #252122;
 		background-image: url("images/bg02.png");
@@ -135,7 +136,8 @@ input, select, textarea {
 
 	h1, h2, h3, h4, h5, h6 {
 		color: #252122;
-		font-weight: 700;
+		font-weight: 600;
+		padding: 20px;
 	}
 
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
